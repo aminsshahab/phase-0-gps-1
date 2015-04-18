@@ -5,7 +5,7 @@ checkout this neat program I wrote:
 
 x = 2 + 2
 
-puts x * 5
+puts x * 2
 ```
 [Visit GitHub!](www.github.com)
 
