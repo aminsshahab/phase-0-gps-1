@@ -10,4 +10,4 @@ Git commands we have used so far:
 Commits that need to be made. Also tells you how far ahead or behind you are from master.
 -Cd: Changes directories
 -Ls: Lists files in current directory. 
-- Subl . : Opens the current directory you are in in sublime
+- Subl . : Opens the current directory you are in in sublime.
